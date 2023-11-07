@@ -1,5 +1,8 @@
 # Personal-Projects
 
+
+Ignore me, I used to be bad at github lol
+
 This is a repository for any non school and non proprietary software projectst that I write.
 It isn't much now, but it'll probably grow as I write more software/do more with more languages. I should update this with code, but most of what I write is proprietary/school and so I cannot share it.
 
